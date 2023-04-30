@@ -7,7 +7,7 @@ package Fracciones;
 
 /**
  *
- * @author Home
+ * @author Dorys Erazo Ortega
  */
 class FraccionesObjeto {
     
